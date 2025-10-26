@@ -1,2 +1,2 @@
 # hungry-bird
-its afood ordering ecommerce website created using react js
+its a food ordering ecommerce website created using react js, typescript
